@@ -15,4 +15,3 @@ seaborn==0.9.0
 cloudpickle>=0.6.0
 scikit-learn==0.20.0
 joblib==0.14.0
-© 2021 GitHub, Inc.
